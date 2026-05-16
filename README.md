@@ -1,2 +1,2 @@
 # Projects
-This repository contains all the projects i've done till date
+This repository contains the projects i've in college.
